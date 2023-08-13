@@ -1,0 +1,5 @@
+{{#pearlrathour}
+Name: Pearl Rathour
+Skills: HTML, CSS, JS, ReactJS, TailwindCSS, Bootstrap, Node.js, Express.js, MySQL, MongoDB
+Email: pearl.rathour33@gmail.com
+{{/pearlrathour}}
